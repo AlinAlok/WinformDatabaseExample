@@ -1,0 +1,4 @@
+﻿string dbPath =
+                Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).FullName).FullName +
+                @"\Student.mdf";
+            String _connectionString = @"Data Source=(LocalDB)\v11.0;AttachDbFilename=E:\PersonalCode\CSharp\StudentInformation\StudentInformation\Student.mdf;Integrated Security=True;Connect Timeout=30";
