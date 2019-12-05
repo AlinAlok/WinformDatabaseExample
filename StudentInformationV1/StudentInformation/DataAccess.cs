@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 
 namespace StudentInformation
 {
@@ -31,7 +32,10 @@ namespace StudentInformation
 
         public DataAccess()
         {
-            CONNECTION_STRING = @"Data Source=(LocalDB)\v11.0;AttachDbFilename=E:\PersonalCode\CSharp\StudentInformation\StudentInformation\Student.mdf;Integrated Security=True;Connect Timeout=30";
+            string dbPath =
+                   Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).FullName).FullName +
+                   @"\Student.mdf";
+            CONNECTION_STRING = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="+ dbPath + ";Integrated Security=True;Connect Timeout=30";
         }
 
         /// <summary>
