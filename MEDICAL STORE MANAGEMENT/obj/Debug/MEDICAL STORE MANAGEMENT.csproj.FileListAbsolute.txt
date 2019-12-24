@@ -1,0 +1,18 @@
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\bin\Debug\MEDICAL STORE MANAGEMENT.exe.config
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\bin\Debug\MEDICAL STORE MANAGEMENT.exe
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\bin\Debug\MEDICAL STORE MANAGEMENT.pdb
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Log_IN.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Properties.Resources.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Registration.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL STORE MANAGEMENT.csproj.GenerateResource.cache
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL STORE MANAGEMENT.csproj.CoreCompileInputs.cache
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL STORE MANAGEMENT.exe
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL STORE MANAGEMENT.pdb
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL STORE MANAGEMENT.csprojAssemblyReference.cache
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Admin_Form.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Product.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Product_List.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Request.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Customer_Form.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Customer_Request.resources
+C:\Users\Mahtab Hossain\source\repos\MEDICAL STORE MANAGEMENT\obj\Debug\MEDICAL_STORE_MANAGEMENT.Shoping_Cart.resources
